@@ -8,4 +8,4 @@
 | Deiber Lucena     |    Venezuela |
 | Carlos Rojas      |    Venezuela |
 | Kenyel Mogollon   |    Venezuela |
-|                   |    Venezuela |
+| Steven Araujo     |    Venezuela |
